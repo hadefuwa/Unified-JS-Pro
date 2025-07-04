@@ -3,7 +3,7 @@
 **A Complete Professional Siemens WinCC Unified JavaScript Reference Tool**
 
 [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
-[![Version](https://img.shields.io/badge/version-1.2.0-brightgreen.svg)]()
+[![Version](https://img.shields.io/badge/version-1.3.0-brightgreen.svg)]()
 [![Electron](https://img.shields.io/badge/Electron-Latest-47848F.svg)](https://electronjs.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![WinCC](https://img.shields.io/badge/WinCC-Unified-blue.svg)]()
